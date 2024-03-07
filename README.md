@@ -1,0 +1,2 @@
+# helirawr
+rusdi adalah manusia
